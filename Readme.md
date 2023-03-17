@@ -8,4 +8,5 @@ Canal de youtube: https://www.youtube.com/channel/UCoX2PLLQxmPR7Z8OFB9ti5g/video
 Github: https://github.com/7541-Algoritmos-y-programacion-2
 
 Mails Gustavo Schmidt: gschmid@fi.uba.ar
+
 Mails Sergio Sirotinsky: ssirotinsky@fi.uba.ar
