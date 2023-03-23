@@ -1,2 +1,3 @@
+La clase de hoy no pudo ser grabada.
 
-https://www.youtube.com/watch?v=0_RWT9CsBPw
+Se vio introduccion a C++ y como modularizar en archivos.
