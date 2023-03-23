@@ -1,7 +1,7 @@
 FI UBA - Algoritmos y Programación 2
 
 Datos útiles de la catedra:
-Meet de todas las clases: https://meet.google.com/xoc-shfg-hxz
+Meet de todas las clases: https://meet.google.com/yta-tksg-zzr
 
 Canal de youtube: https://www.youtube.com/channel/UCoX2PLLQxmPR7Z8OFB9ti5g/videos
 
