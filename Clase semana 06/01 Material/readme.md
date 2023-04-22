@@ -5,3 +5,12 @@ Ejercicios TDA
 
 Para el hogar:
 Hacer la clase Tablero y Casillero del TP 2 con TDA. Por ahora utilizar vectores para el tablero
+
+
+Tips a validar de TDA:
+1) Encapsulamiento
+2) Nombres
+3) Conjunto completo de operaciones
+4) pre y post condicion
+5) Robusto
+6) main
