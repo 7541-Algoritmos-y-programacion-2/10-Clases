@@ -13,4 +13,5 @@ Tips a validar de TDA:
 3) Conjunto completo de operaciones
 4) pre y post condicion
 5) Robusto
-6) main
+6) Modularizar
+7) main
