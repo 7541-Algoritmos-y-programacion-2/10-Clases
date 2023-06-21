@@ -80,8 +80,8 @@ public:
     IndicadorDePagina(unsigned int cantidadTotalDePaginas);
 
     // CONSTRUCTOR
-    // PRE: Recibe la cantidad de paginas en el libro (mayor a 0)
-    // POS: Crea un indicador de pagina para un libro con esa cantidad de paginas
+    // PRE: -
+    // POS: Destruye la instancia liberando la memoria
     ~IndicadorDePagina();
 
     // PRE: -
