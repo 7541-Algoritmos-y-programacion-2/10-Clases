@@ -1,5 +1,5 @@
 Temas: 
-Arboles B
+Arboles B (simulador: https://www.cs.usfca.edu/~galles/visualization/BTree.html)
 Recorridos de Grafos
 TP 2
 Repaso del parcial
