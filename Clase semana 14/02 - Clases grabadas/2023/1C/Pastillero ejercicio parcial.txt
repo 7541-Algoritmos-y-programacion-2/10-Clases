@@ -1,0 +1,157 @@
+class Pastillero{
+    private:
+    
+        Vector <Casillero*>* casilleros;
+
+    public:
+
+        //Pre: Se deben pasar 2 enteros positivos
+        //Pos: Crea el objeto Pastillero
+        Pastillero(unsigned int cantidadDeDias,unsigned int cantidadMaximaDePastillas){
+            if(cantidadMaximaDePastillas <= 0){
+                throw("La cantidad maxima de pastillas debe ser mayor a 0");
+            }
+            this->casilleros = new Vector<Casillero*>(cantidadDeDias, NULL);
+            for(int i = 1; i <= cantidadDeDias; i++){
+                Casillero* casillero = new Casillero(i, cantidadMaximaDePastillas);
+                this->casilleros->agregar(i, casillero);
+            }
+        }
+
+
+        //Pre: ~~
+        //Pos: Destruye los casilleros dentro de pastillero
+        ~Pastillero(){
+            for(int i = 1; 1 <= this->casilleros->getLongitud(); i++){
+                delete this->casilleros->obtener(i);
+            }
+        }
+
+        
+        //Pre: Debe recibir un dia valido
+        //Pos: Agrega una pastilla al dia elegido
+        void agregarPastillaPorDia(int dia){
+            this->validarDia(dia);
+            this->casilleros->obtener(dia)->agregarPastilla();
+        }
+
+        //Pre: Debe recibir un dia valido
+        //Pos: Quita una pastilla al dia elegido
+        void quitarPastillaPorDia(int dia){
+            this->validarDia(dia);
+            this->casilleros->obtener(dia)->quitarPastilla();
+        }
+
+        //Pre: Debe recibir un entero
+        //Pos: Lanza una excepcion si el dia no existe
+        void validarDia(int dia){
+            if(dia > this->casilleros->getLongitud() || dia < 1){
+                throw("Dia no existente en pastillero");
+            }
+        }
+
+        //Pre: Debe recibir un dia valido
+        //Pos: Cuenta las pastillas existentes hasta un dia
+        int contarPastillasHastaDia(int diaMaximo){
+            unsigned int contador = 0;
+            this->validarDia(diaMaximo);
+            for(int i = 1; i <= diaMaximo; i++){
+                contador = contador + this->casilleros->obtener(i)->devolverCantidadDePastillas();
+            }
+            return contador;
+        }
+
+        //Pre: Debe recibir un dia valido
+        //Pos: Cuenta las pastillas existentes desde un dia
+        int contarPastillasDesdeDia(int diaMinimo){
+            unsigned int contador = 0;
+            this->validarDia(diaMinimo);
+            for(int i = diaMinimo; i <= this->casilleros->getLongitud(); i++){
+                contador = contador + this->casilleros->obtener(i)->devolverCantidadDePastillas();
+            }
+            return contador;
+        }
+        
+        //Pre: Debe recibir un dia valido
+        //Pos: Cuenta la cantidad total de pastillas
+        int devolverTotalPastillas(){
+            unsigned int contador = 0;
+            for(int i = 1; i <= this->casilleros->getLongitud(); i++){
+                contador = contador + this->casilleros->obtener(i)->devolverCantidadDePastillas();
+            }
+            return contador;
+        }
+
+        //Pre: ~~
+        //Pos: Devuelve el promedio de pastillas de todos los dias
+        double devolverPromedioPorDia(){
+            return (this->devolverTotalPastillas()/this->casilleros->getLongitud());
+        }
+
+}
+
+class Casillero{
+    private:
+
+        unsigned int cantidadDePastillas;
+        unsigned int cantidadDePastillasMaximas;
+        unsigned int numero;
+
+    public:
+
+        //Pre: Debe recibir 2 enteros positivos
+        //Pos: Crea el objeto casillero
+        Casillero(unsigned int dia, unsigned int cantidadDePastillasMaximas){
+            this->cantidadDePastillas = 0;
+            this->cantidadDePastillasMaximas = cantidadDePastillasMaximas;
+            this->numero = dia;
+        }
+
+        
+        //Pre: ~~
+        //Pos: ~~
+        ~Casillero();
+
+
+        //Pre: ~~
+        //Pos: Devuelve la cantidad de pastillas existentes
+        unsigned int devolverCantidadDePastillas(){
+            return this->cantidadDePastillas;
+        }
+
+        //Pre: Deben haber menos pastillas de las maximas permitidas
+        //Pos: Agrega una pastilla
+        void agregarPastilla(){
+            if(this->cantidadDePastillas >= this->cantidadDePastillasMaximas){
+                throw("No se pueden agregar mas pastillas");
+            }
+            this->cantidadDePastillas ++;
+        }
+
+        //Pre: Debe haber al menos una pastilla
+        //Pos: Quita una pastilla
+        void quitarPastilla(){
+            if(this->cantidadDePastillas <= 0){
+                throw("No se pueden quitar mas pastillas");
+            }
+            this->cantidadDePastillas --;
+        }
+
+        //Pre: ~~
+        //Pos: Devuelve el numero de dia
+        unsigned int obtenerNumeroDeDia(){
+            return this->numero;
+        }
+
+
+}
+
+int main(){
+    Pastillero* pastillero = new Pastillero(6, 8);
+    for(int i = 1; i <= 10 ; i++){
+        pastillero->agregarPastillaPorDia(4);
+    }
+    pastillero->agregarPastillaPorDia(2);
+    std::cout << pastillero->devolverTotalPastillas();
+    return 0;
+}
