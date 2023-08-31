@@ -1,8 +1,11 @@
 Temas: 
-Desarrollo conceptos sobre punteros.
 
-Tp: 
-Consultas
+1) Terminar introduccion a C++
+   
+2) Desarrollo conceptos sobre punteros.
+
+3) Consultas de TP.
+
 
 Intercambio de punteros:
 
