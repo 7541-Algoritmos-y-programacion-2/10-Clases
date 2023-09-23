@@ -38,7 +38,7 @@ public:
 
 		//Inicializo los valores en 0
 		for(int i = 0; i < this->longitud; i++) {
-			this->valores[i] = 0; //NULL
+			this->valores[i] = new T();
 		}
 	}
 
@@ -47,6 +47,11 @@ public:
 	 * post: eliminar el vector correctamente
 	 */
 	virtual ~Vector(){
+		for(int i = 0; i < this->longitud; i++) {
+			if (this->valores[i] != NULL) {
+				delete this->valores[i];
+			}
+		}
 		delete [] this->valores;
 	}
 
@@ -56,6 +61,9 @@ public:
 	 */
 	void setDato(unsigned int indice, T valor){
 		validarIndice(indice);
+		if (this->valores[indice-1] != NULL) {
+			throw "La posicion ya esta ocupada";
+		}
 		this->valores[indice-1] = valor;
 	}
 
