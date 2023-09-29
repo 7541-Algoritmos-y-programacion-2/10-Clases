@@ -15,3 +15,5 @@ Tips a validar de TDA:
 5) Robusto
 6) Modularizar
 7) main
+8) Diseño del software como una abstraccion de la realidad
+9) Que resuelva el problema
