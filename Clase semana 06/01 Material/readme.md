@@ -17,3 +17,6 @@ Tips a validar de TDA:
 7) main
 8) Diseño del software como una abstraccion de la realidad
 9) Que resuelva el problema
+
+Tarea:
+Deben mandar los grupos del TP 2 x mail a gschmid@fi.uba.ar indicando nombre del grupo y los alumnos (padron, nombre y apellido, mail)
