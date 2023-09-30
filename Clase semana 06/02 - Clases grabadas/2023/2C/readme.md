@@ -1,6 +1,6 @@
 Clase del 2C de 2023, viernes 29-09 (sirve para los jueves). Vimos un ejercicio de TDA de parcial.
 
-https://www.youtube.com/watch?v=bCQmJmn6RQk
+https://www.youtube.com/watch?v=NVVODxrH0PA
 
 Tarea:
 
