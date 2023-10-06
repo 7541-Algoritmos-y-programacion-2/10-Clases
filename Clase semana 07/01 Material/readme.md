@@ -2,7 +2,7 @@ Temas:
 Practica de Lista. Vemos la implementacion de la lista simplemente enlazada.
 
 
-Para el hogar:
+Tarea para el hogar:
 
 Hacer la clase Tablero y Casillero del TP 2 con TDA y listas
 
