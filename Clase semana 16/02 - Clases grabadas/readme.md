@@ -1,5 +1,4 @@
 Temas: 
-Recuperatorio
+Oral
 
-Para el hogar:
-Entregar el TP 2
+
