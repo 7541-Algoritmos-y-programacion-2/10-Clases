@@ -2,9 +2,14 @@ FI UBA - Algoritmos y Programación 2
 
 Clase de algoritmos Jueves 05-10-2023 sobre introduccion a Listas y primeros ejercicios. Se hizo el tablero de N x M.
 
-Clase de jueves (sirve para el viernes)
+Clase de jueves (sirve para el viernes tambien)
 
 https://www.youtube.com/watch?v=MQjk45O4c7c&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+
+
+Clase del viernes (sirve para el jueves tambien)
+
+https://www.youtube.com/watch?v=Bi9lqrK-w4o&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
 
 
 Tarea:
