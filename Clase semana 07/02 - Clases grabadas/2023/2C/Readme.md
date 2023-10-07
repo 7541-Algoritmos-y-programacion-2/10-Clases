@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=MQjk45O4c7c&ab_channel=7541-AlgoritmosyProgramac
 
 
 
+
 La clase del viernes 06/10-2023 se explico la lista de enteros y la lista de template
 
 Clase del viernes (sirve para el jueves tambien)
