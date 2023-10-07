@@ -7,6 +7,9 @@ Clase de jueves (sirve para el viernes tambien)
 https://www.youtube.com/watch?v=MQjk45O4c7c&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
 
 
+
+La clase del viernes 06/10-2023 se explico la lista de enteros y la lista de template
+
 Clase del viernes (sirve para el jueves tambien)
 
 https://www.youtube.com/watch?v=Bi9lqrK-w4o&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
