@@ -4,7 +4,7 @@ Clase de algoritmos Viernes 20-10-2023 sobre un ejercicio de parcial de Listas. 
 
 Sirve para jueves y viernes.
 
-Paso el video:
+Link del video:
 
 https://www.youtube.com/watch?v=c1-Aup2-WVg&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
 
