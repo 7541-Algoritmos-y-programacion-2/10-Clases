@@ -34,6 +34,5 @@ https://github.com/7541-Algoritmos-y-programacion-2/Ejercicios-Introduccion-C-/t
 
 Tarea para el hogar:
 
-Instalar el entorno de desarrollo y realizar hasta el ejercicio 10 de la guia:
-https://github.com/7541-Algoritmos-y-programacion-2/Ejercicios-Introduccion-C-/blob/main/Guia%20de%20Ejercicios.pdf
+Instalar el entorno de desarrollo y realizar hasta el ejercicio 10 de la guia de la semana 1
 
