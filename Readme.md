@@ -1,4 +1,4 @@
-FI UBA - Algoritmos y Programación 2
+FI UBA - CB100 ALGORITMOS Y ESTRUCTURAS DE DATOS
 
 Datos útiles de la catedra:
 Meet de todas las clases: https://meet.google.com/yta-tksg-zzr
