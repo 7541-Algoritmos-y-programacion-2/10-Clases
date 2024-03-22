@@ -1,4 +1,4 @@
-Temas:
+## Temas:
 
 Introducción a la materia
 
@@ -8,7 +8,7 @@ Introduccion a C++
 
 
 
-Videos a ver:
+## Videos a ver:
 
 Ambiente de Desarrollo: https://www.youtube.com/watch?v=36qDAw6wPbk (9min)
 
@@ -18,7 +18,7 @@ Primer proyecto: https://www.youtube.com/watch?v=0oxqZi-TLdY (1:48hs)
 
 
 
-Ejercicios:
+## Ejercicios:
 
 https://github.com/7541-Algoritmos-y-programacion-2/Seccion-de-Archivos
 

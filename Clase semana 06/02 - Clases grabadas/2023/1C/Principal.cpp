@@ -25,7 +25,7 @@ int test() {
 int main(){
 	try {
 		Estudiante * vector1 = new Estudiante[4];
-		Estudiante vector6[10];
+		//Estudiante vector6[10];
 		{
 			Estudiante estudiante("Schmidt", "Gustavo", 32334);
 			estudiante.getNombre();
