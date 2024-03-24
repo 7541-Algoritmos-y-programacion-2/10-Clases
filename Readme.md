@@ -26,3 +26,9 @@ Cristian Ciarallo: cciarallo@fi.uba.ar
 https://drive.google.com/drive/folders/1bQAWCJyyNrE5RxjwQbVMLBlcO4TksrDh?usp=drive_link
 
 ```
+
+### discord consultas
+```
+https://discord.gg/gnSqqcBFtT
+
+```
