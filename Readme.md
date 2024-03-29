@@ -16,6 +16,8 @@ Sergio Sirotinsky: ssirotinsky@fi.uba.ar
 
 Cristian Ciarallo: cciarallo@fi.uba.ar
 
+Omar jaldin: ojaldin@fi.uba.ar
+
 
 > [!NOTE]  
 > En la semana 01 -> Clases grabadas-> 2024 ->tp1 esta el enunciado del trabajo a realizar.
