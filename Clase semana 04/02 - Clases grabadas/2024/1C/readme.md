@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Clase semana 4
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos TDA.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del miercoles: https://www.youtube.com/watch?v=xTIK46CwkZU&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
 
