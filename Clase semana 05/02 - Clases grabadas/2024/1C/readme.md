@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Clase semana 05
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Vimos la segunda parte de TDA:
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Lunes 08/04: fallo la grabacion por falta de espacio. Tienen que ver la clase de la semana 04 y semana 05 de los miercoles.
+Miercoles 10/04: https://youtu.be/4B-H-sWzX8U
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
 
