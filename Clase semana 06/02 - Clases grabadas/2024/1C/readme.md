@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Clase semana 06
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos la parte ultima parte de TDA, el TDA Vector y empezamos con Listas
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del Lunes: https://youtu.be/MXkhI7TcMxg
 
