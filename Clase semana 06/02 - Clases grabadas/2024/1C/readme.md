@@ -6,3 +6,6 @@ Vimos la parte ultima parte de TDA, el TDA Vector y empezamos con Listas
 
 Clase del Lunes: https://youtu.be/MXkhI7TcMxg
 
+Clase del miercoles: https://youtu.be/NkxvbJVXKmQ
+
+
