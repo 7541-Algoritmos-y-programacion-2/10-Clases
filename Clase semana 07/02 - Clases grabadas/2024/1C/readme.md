@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clases de semana 07
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos Listas
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del lunes 22/04:
+
+Clase del Miercoles 24/04:
 
