@@ -1,8 +1,9 @@
-Clase 11/03/2024
+Clase de la semana 08
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos Pila, Cola y un ejercicio de parcial de Lista
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del lunes 29/04/2024: https://youtu.be/HJ_ntnKmgPc
+Video del lunes 01/05/2024: feriado
 
