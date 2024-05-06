@@ -1,5 +1,8 @@
 Temas: 
-Practica de Listas
+Practica de Listas, Pilas y Colas
 
-Para el hogar:
-Hacer la clase Tablero y Casillero del TP 2 con TDA. Por ahora utilizar vectores para el tablero
+Dejo el link de los TDAS para utilizar en ejercicios, TPs y evaluaciones: 
+
+https://github.com/7541-Algoritmos-y-programacion-2/04-Estructuras-lineales
+
+
