@@ -19,12 +19,4 @@ Cristian Ciarallo: cciarallo@fi.uba.ar
 Omar jaldin: ojaldin@fi.uba.ar
 
 
-> [!NOTE]  
-> En la semana 01 -> Clases grabadas-> 2024 ->tp1 esta el enunciado del trabajo a realizar.
-> En la carpeta semana 01 ejercicios son los vistos el dia 14/03/2024.
 
-### driver video
-```
-https://drive.google.com/drive/folders/1bQAWCJyyNrE5RxjwQbVMLBlcO4TksrDh?usp=drive_link
-
-```
