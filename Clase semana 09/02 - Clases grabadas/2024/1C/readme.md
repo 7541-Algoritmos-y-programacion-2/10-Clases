@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clase Semana 9
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos Listas, Pilas y Colas.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase Lunes 06/05: no se pudo grabar por falta de espacio
+
+Clase Miercoles 08/05: https://youtu.be/AIstZxjGGj4
 
