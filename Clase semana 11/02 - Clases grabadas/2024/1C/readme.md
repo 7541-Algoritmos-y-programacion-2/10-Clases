@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clase semana 11
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos la segunda parte de Complejidad algoritmica.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del lunes 20/05: https://youtu.be/zsmdR_CMLuc
+
+Video del Miercoles 22/05:
 
