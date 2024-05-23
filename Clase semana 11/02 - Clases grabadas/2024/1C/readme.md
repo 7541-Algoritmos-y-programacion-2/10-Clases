@@ -6,5 +6,5 @@ Vimos la segunda parte de Complejidad algoritmica.
 
 Video del lunes 20/05: https://youtu.be/zsmdR_CMLuc
 
-Video del Miercoles 22/05:
+Video del Miercoles 22/05: https://youtu.be/QHxudNbm2f8
 
