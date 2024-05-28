@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clase de la semana 12
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos Arboles, Arboles binarios, Arboles binarios de busqueda y AVL.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del lunes 27/05: https://youtu.be/QHxudNbm2f8
+
+Video del miercoles 29/05:
 
