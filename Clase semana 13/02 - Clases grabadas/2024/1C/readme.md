@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clase semana 13
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos Arboles B, Arboles B+ y cola de prioridades.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del lunes 03/06: https://youtu.be/GkVV0jHiqBw
+
+Video del lunes 05/06:
 
