@@ -6,5 +6,5 @@ Vimos Arboles B, Arboles B+ y cola de prioridades.
 
 Video del lunes 03/06: https://youtu.be/GkVV0jHiqBw
 
-Video del lunes 05/06:
+Video del lunes 05/06: https://youtu.be/hLS7zyHQgsA
 
