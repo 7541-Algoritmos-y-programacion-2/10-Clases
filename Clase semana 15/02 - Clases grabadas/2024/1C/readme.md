@@ -1,8 +1,10 @@
-Clase 11/03/2024
+Clase semana 15
 
 Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos la segunda parte de grafos.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del lunes 17/06: feriado. Ver el video del miercoles.
+
+Video del miercoles 19/06: https://youtu.be/y7r0Ly7Rna8
 
