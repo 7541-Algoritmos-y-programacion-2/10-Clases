@@ -1,4 +1,6 @@
-Temas: 
-Oral
+Temas: vimos Hashing
+
+
+
 
 
