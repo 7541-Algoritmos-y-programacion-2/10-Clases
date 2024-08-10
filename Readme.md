@@ -16,7 +16,6 @@ Sergio Sirotinsky: ssirotinsky@fi.uba.ar
 
 Cristian Ciarallo: cciarallo@fi.uba.ar
 
-Omar jaldin: ojaldin@fi.uba.ar
 
 
 
