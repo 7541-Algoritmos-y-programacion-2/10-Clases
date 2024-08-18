@@ -13,7 +13,9 @@ Github: https://github.com/7541-Algoritmos-y-programacion-2
 Gustavo Schmidt: gschmid@fi.uba.ar
 
 ## Horarios:
+
 Teorica: los miercoles de 19hs a 22hs.
+
 Practica: los jueves de 19hs a 22hs.
 
 
