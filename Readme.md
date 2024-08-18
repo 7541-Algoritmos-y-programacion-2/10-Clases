@@ -12,9 +12,7 @@ Github: https://github.com/7541-Algoritmos-y-programacion-2
 
 Gustavo Schmidt: gschmid@fi.uba.ar
 
-Sergio Sirotinsky: ssirotinsky@fi.uba.ar
 
-Cristian Ciarallo: cciarallo@fi.uba.ar
 
 
 
