@@ -4,18 +4,7 @@ Introducción a la materia
 
 Trabajo practico N°1
 
-Introduccion a C++
-
-
-
-## Videos a ver:
-
-Ambiente de Desarrollo: https://www.youtube.com/watch?v=36qDAw6wPbk (9min)
-
-Crear un proyecto: https://www.youtube.com/watch?v=mkSERba9VYI (9 min) 
-
-Primer proyecto: https://www.youtube.com/watch?v=0oxqZi-TLdY (1:48hs)
-
+Introduccion a Java
 
 
 ## Ejercicios:
