@@ -10,3 +10,5 @@ Temas:
 Para el hogar:
 
 Hacer la guia 2.
+
+Tabla ASCII: https://elcodigoascii.com.ar/
