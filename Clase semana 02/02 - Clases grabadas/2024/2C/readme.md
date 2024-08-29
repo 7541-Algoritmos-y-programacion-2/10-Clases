@@ -1,8 +1,9 @@
-Clase 11/03/2024
+Clase de la semana 2
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Vimos como se organiza la memoria en general y particularmente en Java. Vimos el tipo puntero.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del miercoles 28/08: https://youtu.be/qWqGCNMwxgM
+
+Video del jueves 29/08:
 
