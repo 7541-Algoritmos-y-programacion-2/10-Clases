@@ -5,5 +5,5 @@ Vimos como se organiza la memoria en general y particularmente en Java. Vimos el
 
 Video del miercoles 28/08: https://youtu.be/qWqGCNMwxgM
 
-Video del jueves 29/08:
+Video del jueves 29/08: https://youtu.be/j1RNbRcag9I
 
