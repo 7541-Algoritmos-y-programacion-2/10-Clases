@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Clases de la semana 3
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Vimos la introduccion a TDA
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Clase del miercoles 04/09: https://youtu.be/jL2V1_QNR2Y
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del jueves 05/09:
 
