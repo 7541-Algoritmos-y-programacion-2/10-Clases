@@ -1,8 +1,9 @@
-Clase 11/03/2024
+Clases de la semana 05  
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Vimos recursividad, excepciones, JUnit, ordenamientos y la estrategia divide y venceras.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del miercoles 18/09: https://youtu.be/z-JRl2jK9Ek
+
+Video del miercoles 19/09:
 
