@@ -1,5 +1,3 @@
 Temas: 
-Ejercicios de TDA
-TDA Vector
-Introduccion a TDA Lista
+Ejercicios de TDA de parcial
 
