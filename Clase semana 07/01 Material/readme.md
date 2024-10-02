@@ -1,10 +1,5 @@
 Temas: 
-Practica de Lista. Vemos la implementacion de la lista simplemente enlazada.
-
-
-Tarea para el hogar:
-
-Hacer la clase Tablero y Casillero del TP 2 con TDA y listas
+Vimos templates, vector y lista
 
 
 Otros videos relacionados:
