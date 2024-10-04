@@ -1,6 +1,6 @@
 package ar.uba.fi.cb100.semana07.miercoles;
 
-public class Vector<T> {
+public class Vector<T extends Object> {
 //ATRIBUTOS DE CLASE --------------------------------------------------------------------------------------
 //ATRIBUTOS -----------------------------------------------------------------------------------------------
 
@@ -115,6 +115,7 @@ public class Vector<T> {
 	 * @return devuelve un vector del tipo y longitud deseado
 	 * @throws Exception 
 	 */
+	
 	@SuppressWarnings("unchecked")
 	private T[] crearVector(int longitud) throws Exception {
 		if (longitud <= 0) {

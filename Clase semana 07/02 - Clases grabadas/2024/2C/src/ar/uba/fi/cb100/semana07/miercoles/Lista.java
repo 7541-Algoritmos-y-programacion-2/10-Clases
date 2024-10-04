@@ -79,6 +79,25 @@ public class Lista<T> {
 	}
 
 	/**
+	 * pre:
+	 * @param valor: un valor de la lista
+	 * @throws Exception 
+	 */
+	public void remover(T valor) throws Exception {
+		Nodo<T> cursor = this.primero;
+		int posicion = 1;
+		while (cursor != null) {
+			if (cursor.getDato().equals(valor)) {
+				remover(posicion);
+				return;
+			}
+			cursor = cursor.getSiguiente();
+			posicion++;
+		}
+		throw new Exception("El valor '" + valor + "' no existe");
+	}
+	
+	/**
 	 * pre : posición pertenece al intervalo: [1, contarElementos()]
 	 * pos: devuelve el dato de la posicion
 	 */
@@ -139,6 +158,39 @@ public class Lista<T> {
 		return elemento;
 	}
 
+	/**
+	 * pre: 
+	 * @param valor: -
+	 * post: devuelve verdadero si el valor existe en la lista 
+	 */
+	public boolean existe(T valor) {
+		Nodo<T> cursor = this.primero;
+		while (cursor != null) {
+			if (cursor.getDato().equals(valor)) {
+				return true;
+			}
+			cursor = cursor.getSiguiente();
+		}
+		return false;
+	}
+	
+	/**
+	 * pre: 
+	 * @param valor: -
+	 * post: devuelve la cantidad de apariciones del valor en la lista 
+	 */
+	public int contarOcurrencias(T valor) {
+		Nodo<T> cursor = this.primero;
+		int cantidadDeOcurrencias = 0;
+		while (cursor != null) {
+			if (cursor.getDato().equals(valor)) {
+				cantidadDeOcurrencias++;
+			}
+			cursor = cursor.getSiguiente();
+		}
+		return cantidadDeOcurrencias;
+	}
+	
 	//GETTERS SIMPLES -----------------------------------------------------------------------------------------
 
 	/*
