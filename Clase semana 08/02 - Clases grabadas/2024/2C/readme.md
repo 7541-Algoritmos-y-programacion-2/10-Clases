@@ -6,6 +6,7 @@ Continuamos con estructuras lineales. Listas doblemente enlazadas, circulares, p
 Videos de las clases:
 
 Miercoles 09-10-2024: https://youtu.be/ive_7WwIHME
+
 Jueves 10-10-2024:
 
 Tarea:
