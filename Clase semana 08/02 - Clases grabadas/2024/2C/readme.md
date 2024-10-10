@@ -1,8 +1,13 @@
-Clase 11/03/2024
+Clases de la semana 08
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Continuamos con estructuras lineales. Listas doblemente enlazadas, circulares, pilas y colas.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Videos de las clases:
+
+Miercoles 09-10-2024: https://youtu.be/ive_7WwIHME
+Jueves 10-10-2024:
+
+Tarea:
+Completar el ejercicio de Soluciones visto en la clase del miercoles y terminar el tablero con vecino precalculados.
 
