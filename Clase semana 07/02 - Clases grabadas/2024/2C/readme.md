@@ -6,3 +6,4 @@ Clase del miercoles 03/10: https://youtu.be/WC_XhElZiRo
 
 Clase del jueves 04/10: https://youtu.be/TK8381b9HFA
 
+Completar el ejercicio de Soluciones visto en la clase del miercoles y terminar el tablero con vecino precalculados.
