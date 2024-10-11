@@ -10,5 +10,5 @@ Miercoles 09-10-2024: https://youtu.be/ive_7WwIHME
 Jueves 10-10-2024: https://youtu.be/yd7AjYJTvLg
 
 Tarea:
-Completar el ejercicio de Soluciones visto en la clase del miercoles y terminar el tablero con vecino precalculados.
+Terminar el ejercicio de parcial de imagenes del pdf de la teorica y hacer los 2 algoritmos de calcular si se puede mover una Ficha en el tateti o si se formo el tateti ganador.
 
