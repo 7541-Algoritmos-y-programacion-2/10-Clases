@@ -1,8 +1,9 @@
-Clase 11/03/2024
+Clases de la semana 09
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Hicimos practica del parcial de listas y avanzamos con el TP.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del miercoles 16/10: https://youtu.be/q4nO5qrTD-Y
+
+Clase del jueves 17/10:
 
