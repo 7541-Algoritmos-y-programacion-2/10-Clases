@@ -3,5 +3,5 @@ En la semana 10 vimos Complejidad Algoritmica.
 
 Miercoles 23/10: https://youtu.be/Gbju_iOiUSg
 
-Jueves 24/10:
+Jueves 24/10: https://youtu.be/SF95ZpNJEa0
 
