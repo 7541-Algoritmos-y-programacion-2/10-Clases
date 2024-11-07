@@ -5,3 +5,4 @@ Miercoles 23/10: https://youtu.be/Gbju_iOiUSg
 
 Jueves 24/10: https://youtu.be/SF95ZpNJEa0
 
+El archivo compreso es todo el proyecto completo con el codigo.
