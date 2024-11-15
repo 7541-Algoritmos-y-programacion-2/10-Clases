@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Vimos Arboles.
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+El jueves fue el recuperatorio, ya esta disponible en el apartado de examenes.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Video del miercoles 13/11: https://youtu.be/aM0MndopBIQ
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del jueves 14/11: no hubo porque fue el examen presencial.
 
