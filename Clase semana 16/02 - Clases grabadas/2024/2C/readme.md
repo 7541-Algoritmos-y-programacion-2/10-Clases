@@ -1,8 +1,8 @@
-Clase 11/03/2024
+Clase de la semana 16
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
+Vimos los Grafos, Hashing y Java
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Clase del miercoles 04/12: https://youtu.be/dbhXj2Rf03Q
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Clase del jueves 05/12: https://youtu.be/M2RH71pG1XE
 
