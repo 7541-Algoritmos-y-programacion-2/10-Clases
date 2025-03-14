@@ -1,8 +1,12 @@
-Clase 11/03/2024
+Semana 01 - Introduccion
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del miercoles 12/03: https://youtu.be/zS6FfzW-p8A
+
+Video del jueves 13/03: https://youtu.be/yAEJyNvfvss
+
+Tarea
+Hacer el menu del tp en una clase aparte.
 
