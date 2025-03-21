@@ -1,8 +1,12 @@
-Clase 11/03/2024
+Semana 02 - Memoria y Punteros en Java
 
-Aclaracion: Esta clase sirve tanto para el curso de los lunes como los miercoles.
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a C++.
+Vimos la parte de memoria y punteros en Java.
 
-Dejo el video: https://www.youtube.com/watch?v=lp_tyPK7Lgw&ab_channel=7541-AlgoritmosyProgramaci%C3%B3nIIFIUBA
+Video del miercoles 19/03: https://youtu.be/eZ17yeWkv6E
+
+Video del jueves 20/03: https://youtu.be/6CyL50InUyQ
+
+Tarea
+Terminar el TP.
 
