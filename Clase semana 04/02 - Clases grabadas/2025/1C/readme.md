@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Clase semana 4
+
+Vimos la segunda parte de TDA.
+
+Clase del miercoles 02/05: feriado
+
+Clase del jueves 03/05: https://youtu.be/VPa01VaGO-o
+
+Tarea:
+Hacer el ejercicio de la Cadena
