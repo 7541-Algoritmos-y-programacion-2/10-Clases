@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Clases de la semana 05  
+
+Vimos recursividad, excepciones, JUnit, ordenamientos y la estrategia divide y venceras.
+
+
+Video del miercoles 10/04: https://youtu.be/P8_tckbFUTA
+
+Video del jueves 11/04: https://youtu.be/gdeq0wwqirM
+
+Tarea:
+Continuar con la guia de TDA
