@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Clases de la semana 09
+
+
+Hicimos practica del parcial de listas y avanzamos con el TP.
+
+Clase del miercoles 07/05: https://youtu.be/1G2DWqUGkFc
+
+Clase del jueves 08/05: https://youtu.be/v4P8zo8cNsA 
+
+El jueves proximo es el parcial.
