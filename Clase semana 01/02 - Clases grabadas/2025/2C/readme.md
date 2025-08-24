@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Semana 01 - Introduccion
+
+
+Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+
+Video del miercoles 20/08: https://youtu.be/xZoGHhcvs-Q
+
+Video del jueves 21/01: https://youtu.be/TnxyyZ6fgik
+
+Tarea
+Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+
+
