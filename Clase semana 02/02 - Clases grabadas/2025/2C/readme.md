@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Semana 02 - Memoria y Punteros
+
+
+Continuamos con el lenguaje Java, vimos la parte de punteros y de memoria.
+
+Video del miercoles 27/08: https://youtu.be/6Gjy0_GxtqA
+
+Video del jueves 28/01: https://youtu.be/N1Lyu2EeHDY
+
+Tarea
+Terminar el tp y la guia 02.
