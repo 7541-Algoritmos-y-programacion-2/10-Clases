@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Clases de la semana 12
+
+
+Vimos arboles
+
+Clase del miercoles 05/11:  https://youtu.be/qk2fPGXZG-A      
+
+Clase del jueves 06/11:  https://youtu.be/ICYINWbSwUg
+
+Vimos diseño del TP y polimorfismo. Repaso de parcial y practica de arboles.
