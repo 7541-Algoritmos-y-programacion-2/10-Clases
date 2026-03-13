@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>W2025_1C</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+Semana 01 - Introduccion
+
+
+Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+
+Video del miercoles 11/03: https://youtu.be/Z7OhVhdXsnI
+
+Video del jueves 12/03: https://youtu.be/Txsz57hjFZ0
+
+Tarea
+Iniciar con el tp y la guia 01.
