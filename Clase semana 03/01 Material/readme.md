@@ -1,8 +1,4 @@
-Temas: 
-Introduccion a TDA
+El material comun a todos los cuatrimestres se encuentra en esta seccion.
 
-
-Para el hogar:
-
-Hacer la guia parte 3.
+Luego, lo visto en clase y el material del cuatrimestre, se encuentra dentro del cuatrimestre correspondiente en clases grabadas.
 
