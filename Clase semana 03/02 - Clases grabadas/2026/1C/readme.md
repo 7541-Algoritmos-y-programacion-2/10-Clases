@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 03 - Memoria y Punteros
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos la estructura de memoria y el uso de punteros en java.
 
-Video del miercoles 20/08: XX
+Video del miercoles 25/03: https://youtu.be/O1D9_PF9QkU
 
-Video del jueves 21/01: XX
+Video del jueves 26/03: https://youtu.be/RAl5mqWo9yM
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Empezar la guia 02.
