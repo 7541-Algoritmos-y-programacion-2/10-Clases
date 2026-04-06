@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 04 - TDA
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos la primer parte de TDA. El jueves fue feriado.
 
-Video del miercoles 20/08: XX
+Video del miercoles 01/04: https://youtu.be/f_B-eYxZKzQ
 
-Video del jueves 21/01: XX
+Video del jueves 02/04: feriado
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Empezar la guia de TDA.
