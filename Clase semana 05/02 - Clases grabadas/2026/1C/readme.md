@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 05 - TDA y TP2
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos la segunda parte de TDA y el TP 2
 
-Video del miercoles 20/08: XX
+Video del miercoles 08/04: https://youtu.be/hsYfQFkC4mg
 
-Video del jueves 21/01: XX
+Video del jueves 09/04: https://youtu.be/gPX6jS3SNAc
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Hacer la guia de TDA y arrancar con el TP 2.
