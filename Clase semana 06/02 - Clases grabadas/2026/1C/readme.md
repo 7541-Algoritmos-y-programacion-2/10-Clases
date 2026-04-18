@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 06 - Estrategia, Testeo, TDA
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos la estrategia Divide y Reinaras, luego testeo, Ordenamiento y TDA.
 
-Video del miercoles 20/08: XX
+Video del miercoles 15/04: https://youtu.be/hsYfQFkC4mg
 
-Video del jueves 21/01: XX
+Video del jueves 16/04: https://youtu.be/WaMq79hDuhY
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Terminar los grupos y mandarlos por mail. Avanzar tp, hacer la guia de TDA y arrancar con parcial.
