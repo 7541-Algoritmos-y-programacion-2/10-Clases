@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 09 - Complejidad
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos la segunda parte de complejidad y ejercicios de parcial.
 
-Video del miercoles 20/08: XX
+Video del miercoles 06/05: https://youtu.be/l3fibNcCOUE
 
-Video del jueves 21/01: XX
+Video del jueves 07/05: https://youtu.be/7rsj3Qle-6Q
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Continuar con el tp, hacer la guia de complejidad y parciales.
