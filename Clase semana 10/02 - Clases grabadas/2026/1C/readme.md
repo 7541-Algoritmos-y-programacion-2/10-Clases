@@ -1,11 +1,11 @@
-Semana XX - Introduccion
+Semana 10 - Arboles
 
 
-Vimos la parte administrativa, introduccion a la materia, e introduccion a Java.
+Vimos las estructuras de arboles.
 
-Video del miercoles 20/08: XX
+Video del miercoles 13/05: https://youtu.be/h-T571USB_Q
 
-Video del jueves 21/01: XX
+Video del jueves 14/05: https://youtu.be/yITTq3wc35o
 
 Tarea
-Hacer el menu del tp, el ejercicio 20 para cargar los datos y empezar la guia 01.
+Hacer la guia de arboles y el TP.
